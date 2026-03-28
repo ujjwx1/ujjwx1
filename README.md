@@ -31,4 +31,3 @@ engineer who builds things that learn. i care more about the parts that break qu
 ---
 
 `// no noise. just commits.`                
-```
