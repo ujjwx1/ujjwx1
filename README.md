@@ -5,13 +5,6 @@
 \__,_/_/ /_/ / |__/|__/_/|_/_/   
     /___/___/                                     
 ```
-
-```
-# ujjwal aggarwal  ·  ujjwx1
-# thapar institute  ·  patiala, india
-# ml / data / systems
-```
-
 ---
 
 **❯ whoami**
