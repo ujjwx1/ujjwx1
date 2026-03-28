@@ -9,7 +9,7 @@
 
 **❯ whoami**
 
-engineer who builds things that learn. i care more about the parts that break quietly than the parts that demo well — pipelines, failure modes, infrastructure. if a system works at 3am without me watching it, that's the goal.
+engineer who builds things that learn. i care more about the parts that break quietly than the parts that demo well like pipelines, failure modes, infrastructure. if a system works at 3am without me watching it, that's the goal.
 
 ---
 
