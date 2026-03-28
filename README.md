@@ -17,6 +17,7 @@ engineer who builds things that learn. i care more about the parts that break qu
 
 ```
 → studying how models fail, not just how they perform
+→ cuTile seems interesting
 → contributing to open source when i find something worth fixing
 ```
 
